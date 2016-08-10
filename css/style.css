@@ -22,20 +22,9 @@
 .main-header {
   height: 800px;
   margin-top: 0;
-  background: #b300b3 url('../img/Band Pic in Tube.jpg') no-repeat center;
+  background: #b300b3 url('../img/Band Pic With Text.png') no-repeat center;
   background-size: cover;
 	width: 100%;
-}
-
-h1 {
-  color: #fdfcf4;
-  font-family: 'archisticonormal', sans-serif;
-  font-size: 20rem;
-  font-weight: normal;
-  margin: auto;
-	text-align: center;
-	padding-top: 400px;
-	text-shadow: 5px 5px 5px rgba(0,0,0, 1);
 }
 
 /*Video-----------------------------------------------------------------------*/
@@ -54,4 +43,13 @@ iframe {
     border-right-width: 0px;
     border-bottom-width: 0px;
     border-left-width: 0px;
+}
+
+/*Body------------------------------------------------------------------------*/
+
+.new-album p {
+  font-family: Futura, Arial, sans-serif;
+  font-weight: normal;
+  font-size: 15rem;
+  margin: 0;
 }
