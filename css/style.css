@@ -47,6 +47,7 @@ h2 {
   font-size: 10rem;
   font-weight: normal;
   margin: 0;
+  border-radius: 1px;
 }
 
 .new-album {
@@ -56,7 +57,6 @@ h2 {
 .new-album img {
   margin-left: 100px;
   box-shadow: 2px 2px 10px rgba(0,0,0, 1);
-  display: block;
 }
 
 .tour-dates {
