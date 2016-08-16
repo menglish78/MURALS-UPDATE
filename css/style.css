@@ -77,8 +77,8 @@ h2 {
 }
 
 a.button {
-    -webkit-appearance: button;
-    -webkit-border-radius: 0;
+    -webkit-appearance: none;
+    -webkit-border-radius: 0px;
     -moz-appearance: button;
     appearance: button;
     font-size: 2rem;
