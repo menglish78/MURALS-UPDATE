@@ -47,6 +47,7 @@ h2 {
   font-size: 10rem;
   font-weight: normal;
   margin: 0;
+  width: 100%;
 }
 
 .new-album img {
@@ -87,6 +88,7 @@ a.button {
     text-align: center;
 }
 
+/*Prevent rounded border on button in IOS-----------------*/
 input[type=”button”] {
     -webkit-appearance: none;
     -webkit-border-radius: 0px;
