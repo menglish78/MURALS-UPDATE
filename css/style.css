@@ -77,9 +77,6 @@ h2 {
 }
 
 a.button {
-    -webkit-appearance: none;
-    -webkit-border-radius: 0px;
-    -moz-appearance: button;
     appearance: button;
     font-size: 2rem;
     text-decoration: none;
@@ -89,6 +86,12 @@ a.button {
     width: 50%;
     text-align: center;
 }
+
+input[type=”button”] {
+    -webkit-appearance: none;
+    -webkit-border-radius: 0px;
+    -moz-appearance: button;
+  }
 
 .tickets {
   text-align: right;
