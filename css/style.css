@@ -72,8 +72,16 @@ h2 {
   text-align: left;
 }
 
-.tour-dates td {
-  padding: 5px;
+table td {
+	padding: 5px;
+}
+
+.dates {
+	width: 20%;
+}
+
+.cities {
+	width: 40%;
 }
 
 .tour-dates tr {
